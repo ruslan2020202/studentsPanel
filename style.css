@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+
+table{
+    border: 1px black solid;
+}
+
+th, td{
+    border:1px black solid;
+    width: 10rem;
+}
