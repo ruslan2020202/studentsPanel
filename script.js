@@ -2,7 +2,7 @@ let students = [{
     'name': "ruslan",
     'surname': "selivertsov",
     'lastname': 'vyacheslavovich',
-    'date': '2007-05-02 (17 лет)',
+    'date': '2005-05-02 (19 лет)',
     'year': '2022-2026 (2 курс)',
     'facultet': 'ktep'
 }]
